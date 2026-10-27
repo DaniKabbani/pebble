@@ -31,7 +31,7 @@ Most people's AI results are inconsistent because their prompts are missing stru
 - **Quality score (0–100):** a single number with a verdict, from *rewrite recommended* to *ready to ship*
 - **Context-aware checks:** adapts to the prompt type (chatbot system prompt, one-off task, creative or code) and to whether it starts a new conversation or is a follow-up mid-conversation
 - **Prompt generator:** describe what you want and get a structured, production-ready prompt back
-- **Chrome extension:** lint prompts inline and insert generated prompts directly on claude.ai, chatgpt.com and gemini.google.com
+- **Chrome extension:** lint prompts inline and insert generated prompts directly on claude.ai, chatgpt.com and gemini.google.com. A status pill above the prompt box shows when Pebble is checking and how many suggestions it found, and one click adds the fix to your prompt without overwriting what you wrote
 - **Accounts and history:** sign in to keep a history of your analyses
 
 ## How it works
